@@ -8,4 +8,4 @@ I'm a random developer trying to make software.
 - 📫 You can contact me via Discord or via my Twitter.
 
 ### Trying to reach me?
-1. <a href="">Discord</a>
+My <a href="https://delta-studio.herokuapp.com">Website</a> is here. Right there you can reach my Discord/Twitter!
