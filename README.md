@@ -1,5 +1,5 @@
 ### DragonDScript
-Hey everybody! I'm dragon, a passionate developer currently working on XStore, a free and cross platform store. [You can check it here.](https://github.com/dragonDScript)
+Hey everybody! I'm dragon, a passionate developer currently working on XStore, a free and cross platform store. [You can check it here.](https://github.com/x-store-app)
 
 I love Python and JavaScript, but I've worked with C# and Java too.
 
