@@ -21,7 +21,7 @@ My main language is Spanish, followed by English and Catalan. I was born in Spai
 - I like gaming, did I told you?
 
 ### 📚 More info
-I'm currently studying at 7th grade, and for that reason, I love playing games!
+**Favorite games:**
 Ratchet and Clank is my favorite saga followed by others like Jax and Daxter. I also like creating worlds with Minecraft and LBP.
 
 Yeah; I love PlayStation games as you've seen.
