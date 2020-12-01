@@ -1,13 +1,10 @@
 ### DragonDScript
 
 ![dragonDScript's github stats](https://github-readme-stats.vercel.app/api?username=dragonDScript&show_icons=true&theme=default)
-<a href="https://github.com/x-store-app/backend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=x-store-app&repo=backend&theme=default" />
-</a>
 
 Hey everybody! I'm dragon, a passionate developer currently working on XStore, a free and cross platform store. [You can check it here.](https://github.com/x-store-app)
 
-I love Python and JavaScript, but I've worked with C# and Java too.
+I love Python, Javascript and Go, but I've worked with C# too.
 
 My main language is not english, so you've may have seen some typos. Correct me if you see any, please!
 
